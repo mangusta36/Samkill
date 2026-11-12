@@ -1,0 +1,1 @@
+export default function Loading() { return <div className="loading-page" aria-label="Pagina laden"><div/><div/><div/></div>; }
